@@ -6,6 +6,7 @@
  */
 function calculateTotalArea(rectangles) {
   // Implementation is intentionally omitted in this file.
+  // Great job!!
 }
 
 /**
